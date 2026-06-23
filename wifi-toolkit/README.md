@@ -70,7 +70,6 @@ CAPTURE_DIR="/home/kali/Desktop/wifi_captures"
 
 # <img src="https://flagcdn.com/gb.svg" width="24" height="18" alt="GB"> English Version <a name="english-version"></a>
 
-# 📡 WiFi Pentest Automation Tool
 
 Interactive Bash tool for automating wireless network tasks using Aircrack-ng.
 
