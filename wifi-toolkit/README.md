@@ -131,5 +131,6 @@ By default, results are saved to:
 ## ⚠️ Disclaimer/Дисклеймер
 
 This tool is designed for learning, research, and authorized penetration testing of wireless networks only. Use responsibly and only on networks you own or have explicit permission to test.
+
 Инструмент разработан для обучения, исследований и авторизованного тестирования беспроводных сетей.
 
